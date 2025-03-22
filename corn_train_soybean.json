@@ -1,0 +1,7 @@
+{
+    "crop_type": ["Corn", "Soybean"],
+    "years": ["2022"],
+    "fips_codes": ["10003", "22007"],
+    "data_root": "./data"
+  }
+
